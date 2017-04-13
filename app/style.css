@@ -1,0 +1,36 @@
+@import url("https://maxcdn.bootstrapcdn.com/bootstrap/latest/css/bootstrap.min.css");
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
+
+body{
+    margin:0 auto;
+    width:650px;
+    font-family: 'Merriweather', sans-serif;
+    
+}
+
+ .recipePanel{
+     width:650px;
+     margin:0 auto;
+     padding:30px;
+     background-color: #EFF0F3;
+     border:1px #EAEBE6 solid;
+     border-radius: 5px;
+ }
+ 
+ .header{
+     text-align: center;
+ }
+ 
+ .addRecipe{
+     margin: 40px 0 25px 0;
+ }
+
+.listGroup{
+    margin:20px;
+}
+
+.editRecipe{
+    margin-left:5px;
+
+}
+

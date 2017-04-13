@@ -1,0 +1,34 @@
+{
+  "name": "recipe-box",
+  "version": "1.0.0",
+  "description": "Build a recipe box (Redux)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack -d --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.24.0",
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.24.0",
+    "babel-preset-react": "^6.23.0",
+    "css-loader": "^0.27.3",
+    "node-uuid": "^1.4.8",
+    "prop-types": "^15.5.7",
+    "react": "^15.4.2",
+    "react-bootstrap": "^0.30.8",
+    "react-dom": "^15.4.2",
+    "react-hot-loader": "^1.3.1",
+    "react-redux": "^5.0.3",
+    "redux": "^3.6.0",
+    "store": "^2.0.4",
+    "style-loader": "^0.16.1",
+    "webpack": "^2.3.2"
+  },
+  "devDependencies": {
+    "babel-preset-stage-2": "^6.24.1",
+    "redux-devtools": "^3.3.2"
+  }
+}
